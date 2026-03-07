@@ -1,13 +1,13 @@
-# hey, I'm aisling 👋
+# Hi, I'm Aisling 🌸
 
-CS student @ Trinity College Dublin, incoming SDE intern @ Amazon, and someone who loves building things. I'm interested in open source, love tinkering with side projects :)
+CS student @ Trinity College Dublin, incoming SDE intern @ Amazon, and someone who loves building things. I'm interested in open source, love tinkering with side projects. :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aisling-mcnamara-54221024a)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lin82)
 
 ---
 
-## about me 🙋‍♀️
+## About me 😎
 
 - 🎓 3rd year Computer Science @ **Trinity College Dublin**
 - ☁️ Incoming **SDE Intern @ Amazon** (Summer 2026)
@@ -20,7 +20,7 @@ CS student @ Trinity College Dublin, incoming SDE intern @ Amazon, and someone w
 
 ---
 
-## tech stack 💻
+## Tech stack 💻
 
 **Languages**
 
@@ -36,15 +36,18 @@ CS student @ Trinity College Dublin, incoming SDE intern @ Amazon, and someone w
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=flat-square&logo=swi-prolog&logoColor=white)
 
 **Data & ML**
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
 
 ---
 
-## get in touch 📬
+## Get in touch 📬
 
 Always happy to chat about tech, projects, or opportunities.
 
