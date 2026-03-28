@@ -10,7 +10,6 @@ CS student @ Trinity College Dublin, incoming SDE intern @ Amazon, and someone w
 ## About me 😎
 
 - 🎓 3rd year Computer Science @ **Trinity College Dublin**
-- ☁️ Incoming **SDE Intern @ Amazon** (Summer 2026)
 - 🏆 Generation Google Scholar
 - 🥇 1st Place — Citadel Datathon European Championship 2024
 - 🌍 SDG Impact Ideathon 2026 Finalist — built [BioBridge](#), a full-stack biosecurity data platform
