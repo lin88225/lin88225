@@ -1,6 +1,6 @@
 # Hi, I'm Aisling 🌸
 
-CS student @ Trinity College Dublin, incoming SDE intern @ Amazon, and someone who loves building things. I'm interested in open source, love tinkering with side projects. :)
+CS student @ Trinity College Dublin, SDE intern @ Amazon, and someone who loves building things. I'm interested in open source, love tinkering with side projects. :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aisling-mcnamara-54221024a)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lin82)
