@@ -11,10 +11,10 @@ CS student @ Trinity College Dublin, SDE intern @ Amazon, and someone who loves 
 
 - 🎓 3rd year Computer Science @ **Trinity College Dublin**
 - 🏆 Generation Google Scholar
+- 🌍 Web Summit Scholar 2026
 - 🥇 1st Place — Citadel Datathon European Championship 2024
-- 🌍 SDG Impact Ideathon 2026 Finalist — built [BioBridge](#), a full-stack biosecurity data platform
+- 🌸 SDG Impact Ideathon 2026 Finalist
 - 🔭 Currently working on a VR audio pipeline with Mersus Technologies
-- 💬 Ask me about Java, Python, ML, or anything full-stack
 - 🌱 Always learning — currently exploring fun frontend projects and interactive art, esp particle physics (repo coming soon!!)
 
 ---
