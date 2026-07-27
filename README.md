@@ -10,12 +10,12 @@ CS student @ Trinity College Dublin, SDE intern @ Amazon, and someone who loves 
 ## About me 😎
 
 - 🎓 3rd year Computer Science @ **Trinity College Dublin**
+- - 🔭 Currently interning at AWS
 - 🏆 Generation Google Scholar
 - 🌍 Web Summit Scholar 2026
 - 🥇 1st Place — Citadel Datathon European Championship 2024
 - 🌸 SDG Impact Ideathon 2026 Finalist
-- 🔭 Currently working on a VR audio pipeline with Mersus Technologies
-- 🌱 Always learning — currently exploring fun frontend projects and interactive art, esp particle physics (repo coming soon!!)
+- 🌱 Always learning
 
 ---
 
@@ -48,12 +48,8 @@ CS student @ Trinity College Dublin, SDE intern @ Amazon, and someone who loves 
 
 ## Get in touch 📬
 
-Always happy to chat about tech, projects, or opportunities.
-
 - 📧 [aimcnama@tcd.ie](mailto:aimcnama@tcd.ie)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aisling-mcnamara-54221024a)
 - ☕ [Buy me a coffee](https://ko-fi.com/lin82)
 
 ---
-
-*thanks for stopping by! ⭐ feel free to star anything you find useful*
